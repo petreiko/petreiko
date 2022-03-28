@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @petreiko
+- 👋 Hi, I’m @petreiko     valik
 - 👀 I’m interested in crypro
 - 🌱 I’m currently learning banilov
 <!---
